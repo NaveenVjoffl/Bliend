@@ -28,7 +28,7 @@ body, html {
     z-index: 1;
 }
 
-.left-end {
+.background-text-left {
     position: absolute;
     top: 0;
     left: 0;
@@ -39,7 +39,7 @@ body, html {
     transform: rotate(359deg); 
 }
 
-.right-bli {
+.background-text-right {
     position: absolute;
     bottom: 0;
     right: 0;
