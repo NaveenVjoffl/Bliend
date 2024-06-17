@@ -7,8 +7,8 @@ function LoadingPage() {
     return (
         <div className='comingsoon-container'>
             <div className='background-text'>
-                <span className='background-text-left'>end</span>
-                <span className='background-text-right'>bli</span>
+                <span className='left-end'>end</span>
+                <span className='right-bli'>bli</span>
             </div>
             <div className='transparent-layer'>
                 <div className='announcement'>
